@@ -12,13 +12,11 @@
 
 ---
 
-### 🐍 Katkı Yılanı (Snake Animation)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/YukselCOBAN/YukselCOBAN/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
 </div>
 
-*(Not: Yukarıdaki yılan grafiğinin senin katkı karelerin üzerinden akması için `YukselCOBAN` deposuna tek seferlik küçük bir GitHub Actions workflow'u eklemen gerekir; nasıl kuracağını aşağıda adım adım verdim.)*
 
 ---
 
