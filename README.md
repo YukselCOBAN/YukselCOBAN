@@ -1,12 +1,14 @@
 <div align="center">
 
-  <!-- Üst Zarif Dalga Banner (Koyu Gece + Toz Pembe) -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,55:3B1D2E,100:831843&height=155§ion=header&text=Y%C3%9CKSEL%20%C3%87OBAN&fontSize=36&fontColor=FBCFE8&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20FinTech&descAlignY=60&descSize=15&descColor=F4A7BB" width="100%" />
+  <h1 style="color:#F4A7BB; font-size:38px; margin-bottom:6px;">YÜKSEL ÇOBAN</h1>
+  <p><strong style="color:#FBCFE8;">Full-Stack Developer · AI & FinTech</strong></p>
 
-  <!-- Hareketli Daktilo Yazı Kısmı (Toz Pembe) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=20&pause=1100&color=F4A7BB¢er=true&vCenter=true&repeat=true&width=680&lines=Full-Stack+Web+%26+Finans+Uygulamalar%C4%B1;React+%2B+Node.js+%2B+Express+%2B+PostgreSQL;Yapay+Zek%C3%A2+%26+Veri+Analiti%C4%9Fi" alt="Typing SVG" />
-  </a>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=F4A7BB" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-1F1620?style=for-the-badge&logo=nodedotjs&logoColor=F4A7BB" alt="Node.js" />
+    <img src="https://img.shields.io/badge/PostgreSQL-2A1724?style=for-the-badge&logo=postgresql&logoColor=FBCFE8" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Python-1E1626?style=for-the-badge&logo=python&logoColor=F4A7BB" alt="Python" />
+  </p>
 
 </div>
 
