@@ -1,27 +1,72 @@
+
 <div align="center">
 
-  <h1 style="color:#F4A7BB; font-size:38px; margin-bottom:6px;">YÜKSEL ÇOBAN</h1>
-  <p><strong style="color:#FBCFE8;">Full-Stack Developer · AI & FinTech</strong></p>
+  <img src="./banner.svg" width="100%" alt="Yüksel Çoban Banner" />
 
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=F4A7BB" alt="React" />
-    <img src="https://img.shields.io/badge/Node.js-1F1620?style=for-the-badge&logo=nodedotjs&logoColor=F4A7BB" alt="Node.js" />
-    <img src="https://img.shields.io/badge/PostgreSQL-2A1724?style=for-the-badge&logo=postgresql&logoColor=FBCFE8" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Python-1E1626?style=for-the-badge&logo=python&logoColor=F4A7BB" alt="Python" />
-  </p>
+  <br><br>
+
+  <a href="https://www.linkedin.com/in/yuksel-coban/">
+    <img src="https://img.shields.io/badge/LinkedIn-E6A8BE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yukselcobain@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F0B8CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/YukselCOBAN">
+    <img src="https://img.shields.io/badge/GitHub-D9AEC2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+</div>
+
+---
+
+## About Me
+
+I'm a Computer Engineering student passionate about software development, modern technologies and creative solutions.
+
+I enjoy building applications, exploring new technologies and continuously improving my skills.
+
+---
+
+## Technologies & Tools
+
+<div align="center">
+
+  <h4>Programming Languages</h4>
+
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js&theme=light" alt="Programming Languages" />
+
+  <h4>Frontend & Backend</h4>
+
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=light" alt="Frontend and Backend" />
+
+  <h4>Database</h4>
+
+  <img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="Database" />
+
+  <h4>Development Tools</h4>
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse&theme=light" alt="Development Tools" />
+
+</div>
+
+---
+
+## GitHub Contributions
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/YukselCOBAN/YukselCOBAN/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YukselCOBAN/YukselCOBAN/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
-</div>
 
----
+  <i>Always learning, creating and evolving.</i>
 
-### ⚡ Teknolojiler
+  <br><br>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,python,git,github,vscode&perline=8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8C8D8,100:E6A8BE&height=100&section=footer" width="100%" />
+
 </div>
